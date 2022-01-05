@@ -1,4 +1,4 @@
-#Prisma
+# Prisma
 
 a project to get myself familiar with NestJS and ORM
 
